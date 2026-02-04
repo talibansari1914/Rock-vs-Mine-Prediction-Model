@@ -97,7 +97,7 @@ This logic can be directly extended for real-time applications.<br>
 ---
 
 ## 👤 Author
-**Abbu Talib Ansari**
+**Abbu Talib Ansari**<br>
 GitHub:https://github.com/talibansari1914/Rock-vs-Mine-Prediction-Model<br>
 
 ---
